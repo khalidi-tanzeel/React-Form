@@ -1,0 +1,17 @@
+.body {
+    animation: colorchange 40s linear 1s infinite; /* animation-name followed by duration in seconds*/
+       /* you could also use milliseconds (ms) or something like 2.5s */
+   padding-left: 30px;
+   font-family: 'Fondamento', cursive;
+   background-size: cover;
+   Background: lightgray;
+  }
+
+ 
+/* 
+ @keyframes colorchange
+    {
+      0%   {background: orange; color: black;}
+      66%  {background: blue; color: black;}
+      100% {background: gray; color:black;}
+   } */
